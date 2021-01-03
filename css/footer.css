@@ -1,0 +1,21 @@
+
+
+footer{
+    background-color: #c8ccce;
+}
+ 
+  
+  .fa {
+      opacity: 0.7;
+      transition: 1s;
+      -webkit-transition: 1s;
+  }
+  
+  .fa:hover{
+      opacity: 1;
+      transition: 1s;
+      -webkit-transition: 1s;}
+
+      .footer-color{
+          color:rgb(48, 46, 46);
+      }
